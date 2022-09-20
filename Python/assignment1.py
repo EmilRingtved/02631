@@ -1,1 +1,0 @@
-WhatISay = "Hello CodeJudge!"
