@@ -23,4 +23,3 @@ def convertTemperature(T,unitFrom,unitTo):
             return T
     else:
         return "invalid"
-print(convertTemperature(50.0,"Fahrenheit","Celsius"))
