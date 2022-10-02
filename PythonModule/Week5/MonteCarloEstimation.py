@@ -1,5 +1,5 @@
 import numpy as np
-def circleArea(xvals,yvals):
+def circleAreaMC(xvals,yvals):
     aSqr = 4 #Asquare = 4
     r = 1 #radius of the circle is 1
     n = 0 #point in the circle
